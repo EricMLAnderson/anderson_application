@@ -2,7 +2,11 @@ body {
 	font-family: Helvetica, Sans-Serif;
 }
 
+.hello {
+	text-align: center;
+}
+
 .hello:hover {
-	text-shadow: 1px 2px 3px #666;
+	text-shadow: 1px 2px 2px #666;
 	text-align: center;
 }
