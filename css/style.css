@@ -4,6 +4,7 @@ body {
 
 .hello {
 	text-align: left;
+	font-family: Helvetica;
 }
 
 #mainWrapper {
