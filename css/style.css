@@ -2,12 +2,6 @@ body {
 	font-family: Helvetica, Sans-Serif;
 }
 
-.hello {
-	text-align: left;
-	font-family: Helvetica;
-	padding-left: 184px;
-}
-
 #mainWrapper {
 	width:40%;
 	margin: 0 auto;
