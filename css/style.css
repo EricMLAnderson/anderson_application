@@ -7,6 +7,11 @@ body {
 }
 
 .hello:hover {
-	text-shadow: 1px 2px 2px #666;
+	text-shadow: 1px 2px 6px #999999;
 	text-align: center;
+}
+
+#mainWrapper {
+	width:60%;
+	margin: 0 auto;
 }
