@@ -5,6 +5,7 @@ body {
 .hello {
 	text-align: left;
 	font-family: Helvetica;
+	padding-top: 50px;
 }
 
 #mainWrapper {
