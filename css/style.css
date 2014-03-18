@@ -1,3 +1,7 @@
 .copy {
   font-family: Helvetica-Light;
 }
+
+body {
+	padding-top: 70px;
+}
